@@ -1,4 +1,4 @@
-***ManzaraListesi-App***
+# ***ManzaraListesi-Uygulaması***
 
 
 ***Bu uygulamada, Recyclerview ile tanımlanan verileri listeledim.***

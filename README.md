@@ -3,16 +3,20 @@
 
 Bu uygulamada, Recyclerview ile tanımlanan verileri listeledim.
 
-![ilk](https://user-images.githubusercontent.com/35347062/72670660-0cd0e480-3a51-11ea-8003-1d67a235f49c.jpeg)
+![ilk3](https://user-images.githubusercontent.com/35347062/72670790-ec098e80-3a52-11ea-91e4-750864034301.jpeg)
 
 Menü kısmından layout tipini değiştirerek, verileri tek satırda gösterebiliriz (Linear Layout).
 
-![linearlayout](https://user-images.githubusercontent.com/35347062/72670657-0c384e00-3a51-11ea-8448-d1577eff302c.jpeg)
+![linearlayout3](https://user-images.githubusercontent.com/35347062/72670789-eb70f800-3a52-11ea-801b-d83fd6c17a0e.jpeg)
 
 Üstteki çoğaltma ikonuna basılarak veri kopyalama işlemi gerçekleştirilir.
 
-![cogaltılan](https://user-images.githubusercontent.com/35347062/72670658-0c384e00-3a51-11ea-81e2-377a4179a00e.jpeg)
+![cogalt3](https://user-images.githubusercontent.com/35347062/72670791-ec098e80-3a52-11ea-8c2a-67832228764c.jpeg)
 
 Alttaki silme ikonuna basılarak veri silme işlemi gerçekleştirilir.
 
-![silinen](https://user-images.githubusercontent.com/35347062/72670659-0c384e00-3a51-11ea-882d-2eb36f638003.jpeg)
+![silinen3](https://user-images.githubusercontent.com/35347062/72670788-eb70f800-3a52-11ea-9c07-ee9558e116d6.jpeg)
+
+
+ 
+
